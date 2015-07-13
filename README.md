@@ -12,4 +12,5 @@ Otherwise you can pull the trunk source and install from there:
     python setup.py install
 
 GIT repo for pymodbus is here : https://github.com/bashwork/pymodbus
+
 API Doc for pymodbus is here  : https://pymodbus.readthedocs.org/en/latest/library/index.html
